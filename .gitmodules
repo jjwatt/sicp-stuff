@@ -1,3 +1,6 @@
 [submodule "zv/SICP-guile"]
 	path = zv/SICP-guile
 	url = https://github.com/zv/SICP-guile.git
+[submodule "sarabander/sicp"]
+	path = sarabander/sicp
+	url = https://github.com/sarabander/sicp.git
